@@ -2,7 +2,7 @@
 
 This is a curated collection of free Artificial Intelligence (AI) related eBooks available on the Internet. Please feel free to share and learn.
 
-It's for general AI, and you may go to [**Free-Machine-Learning-Books**](https://github.com/TechBookHunter/Free-Machine-Learning-Books) for Machine Learning content and [**Free-Deep-Learning-Books**](https://github.com/TechBookHunter/Free-Deep-Learning-Books) for Deep Learning.
+It's for general AI, and you may go to [**Free-Machine-Learning-Books**](https://github.com/TechBookHunter/Free-Machine-Learning-Books) for Machine Learning content and [**Free-Deep-Learning-Books**](https://github.com/TechBookHunter/Free-Deep-Learning-Books) for Deep Learning. About the tools, [**Free-Tensorflow-Books**](https://github.com/TechBookHunter/Free-Tensorflow-Books) and [**Free-Jupyter-Books**](https://github.com/TechBookHunter/Free-Jupyter-Books) will become your good friends.
 
 If you want to contribute to this list, send a pull request. All contributors will be recognized and appreciated.
 
@@ -12,6 +12,7 @@ If you want to contribute to this list, send a pull request. All contributors wi
 
 You can find all the books listed below in [**book**](/book) folder of this repo:
 
+* AI and Artificial Life in Video Games [[Download]](/book/AI%20and%20Artificial%20Life%20in%20Video%20Games.pdf)
 * AI for Game Developers - David M Bourg [[Download]](/book/AI%20for%20Game%20Developers%20-%20David%20M%20Bourg.epub)
 * AI Techniques for Game Programming [[Download]](/book/AI%20Techniques%20for%20Game%20Programming.pdf)
 * Artificial Intelligence - A Systems Approach [[Download]](/book/Artificial%20Intelligence%20-%20A%20Systems%20Approach.pdf)
